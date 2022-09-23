@@ -1,0 +1,16 @@
+img{
+    width: 400px;
+   }
+   #divId{
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border-color: blueviolet;
+    border-style: double;
+    border-width: 5px;
+   }
+   #spanId{
+    font-size: 18px;
+    margin: 50px;
+   }
